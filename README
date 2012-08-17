@@ -1,0 +1,13 @@
+This is a simple template that can be used to develop applications on the 
+Texas Instruments lm3s1968 evaluation board.
+
+Requirements
+============
+The StellarisWare suite must be installed and you must create a variable named
+STELLARISWARE_PATH that points to the location where you have installed it.
+A c compiler for the arm cortex m3 architecture is also required. This template
+has been tested only with the Mentor graphics Sourcery CodeBench Lite Edition.
+
+Usage
+=====
+Modify the makefile according to your needs and run make.
